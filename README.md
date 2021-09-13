@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kyeongmuk%20Lim&fontSize=90&animation=fadeIn" />
 ### Hi there 👋
 
 <!--

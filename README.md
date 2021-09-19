@@ -4,7 +4,7 @@
 :point_right: [Programmers Dev School Autonomous-Driving. Final Course Competition](https://github.com/LimKyeongmuk/final_project "Final Project")  
 :point_right: [Programmers Autonomous-Driving Dev course. Mission Pass Competition](https://github.com/LimKyeongmuk/Project3 "Project3")  
 :point_right: [Programmers Autonomous-Driving Dev course. Lane-following Competition](https://github.com/LimKyeongmuk/Project2 "Project2")  
-:point_right: [2021 국민대 자율경진대회](https://github.com/LimKyeongmuk/Project1 "Project1")  
+:point_right: [2021 KOOKMIN Univ. Autonomous-Driving Contest](https://github.com/LimKyeongmuk/Project1 "Project1")  
 
 ## :school:  Education  :school:  
 :point_right: Programmers Autonomous driving Dev course 2nd Term. (2021.April ~ 2021.October)  

@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kyeongmuk%20Lim&fontSize=50&fontAlignY=30&animation=fadeIn&desc=끝없는 배움을 추구하는 개발자&descAlignY=50&descSize=30" />
 
+<a href=kounmuk1975@gmail.com/>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+<a href=https://limkyeongmuk.github.io//>![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
+<a href=https://www.youtube.com/channel/UCjhV9mN7mTBxJsNFwJ03tyw/>![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
+<a href=https://www.linkedin.com/in/kyeongmuk-lim-67b696220//>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ## :muscle:  Programmers Dev School Autonomous-Driving Project  :muscle:
 :point_right: [Programmers Dev School Autonomous-Driving. Final Course Competition](https://github.com/LimKyeongmuk/final_project "Final Project")  
 :point_right: [Programmers Autonomous-Driving Dev course. Mission Pass Competition](https://github.com/LimKyeongmuk/Project4 "Project3")  

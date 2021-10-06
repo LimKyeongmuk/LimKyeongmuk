@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kyeongmuk%20Lim&fontSize=50&fontAlignY=30&animation=fadeIn&desc=끝없는 배움을 추구하는 개발자&descAlignY=50&descSize=30" />
-
 <a href=https://limkyeongmuk.github.io//>![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
 <a href=https://www.youtube.com/channel/UCjhV9mN7mTBxJsNFwJ03tyw/>![YouTube](https://img.shields.io/badge/<YouTube>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 <a href=https://www.linkedin.com/in/kyeongmuk-lim-67b696220//>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 

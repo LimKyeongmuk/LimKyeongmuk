@@ -11,10 +11,12 @@
 :point_right: [Programmers Autonomous-Driving Dev course. Simulator SLAM Project](https://github.com/LimKyeongmuk/Project5 "Project5")  
 :point_right: [2021 Kookmin Univ. Autonomous-Driving Contest](https://github.com/LimKyeongmuk/Project1 "Project1")  
 
-## Personal Project
+## Team Project
 :point_right: [A study on recognition of helmet
 for kickboard driver using YOLO network](https://youtu.be/MS8Eb9QiWcw)  
 :point_right: [Deeplearning Program](https://youtu.be/24po0YbBgRo)  
+
+## Personal Project
 :point_right: [Chat program using TCP communication](https://github.com/LimKyeongmuk/chat_program "chat_program")  
 
 ## Education  

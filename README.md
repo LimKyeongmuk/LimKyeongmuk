@@ -8,7 +8,7 @@
 :point_right: [Programmers Autonomous-Driving Dev course. Mission Pass Competition](https://github.com/LimKyeongmuk/Project4 "Project3")  
 :point_right: [Programmers Autonomous-Driving Dev course. Lane-following Competition](https://github.com/LimKyeongmuk/Project2 "Project2")  
 :point_right: [Programmers Autonomous-Driving Dev course. LiDAR SLAM using Cartographer](https://github.com/LimKyeongmuk/Project6 "Project6")  
-:point_right: [Programmers Autonomous-Driving Dev course. Simulator SLAM Project](https://github.com/LimKyeongmuk/Project5 "Project5")  
+:point_right: [Programmers Autonomous-Driving Dev course. Simulator SLAM Project](https://github.com/LimKyeongmuk/Project5 "Project5")   
 :point_right: [2021 Kookmin Univ. Autonomous-Driving Contest](https://github.com/LimKyeongmuk/Project1 "Project1")  
 
 ## Team Project
@@ -17,6 +17,7 @@ for kickboard driver using YOLO network](https://youtu.be/MS8Eb9QiWcw)
 :point_right: [Deeplearning Program](https://youtu.be/24po0YbBgRo)  
 
 ## Personal Project
+:point_right: [Path Planning Algorithm](https://github.com/LimKyeongmuk/PathPlanning "PathPlanning") 
 :point_right: [Chat program using TCP communication](https://github.com/LimKyeongmuk/chat_program "chat_program")  
 
 ## Education  

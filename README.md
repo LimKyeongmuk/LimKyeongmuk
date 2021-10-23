@@ -17,7 +17,7 @@ for kickboard driver using YOLO network](https://youtu.be/MS8Eb9QiWcw)
 :point_right: [Deeplearning Program](https://youtu.be/24po0YbBgRo)  
 
 ## Personal Project
-:point_right: [Path Planning Algorithm](https://github.com/LimKyeongmuk/PathPlanning "PathPlanning") 
+:point_right: [Path Planning Algorithm](https://github.com/LimKyeongmuk/PathPlanning "PathPlanning")  
 :point_right: [Chat program using TCP communication](https://github.com/LimKyeongmuk/chat_program "chat_program")  
 
 ## Education  

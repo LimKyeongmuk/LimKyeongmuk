@@ -4,8 +4,9 @@
 <a href=https://www.youtube.com/channel/UCjhV9mN7mTBxJsNFwJ03tyw/>![YouTube](https://img.shields.io/badge/<YouTube>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 <a href=https://www.linkedin.com/in/kyeongmuk-lim-67b696220//>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ## Programmers Dev School Autonomous-Driving Project
-:point_right: [Programmers Dev School Autonomous-Driving. Final Course Competition](https://github.com/LimKyeongmuk/final_project "Final Project")  
-:point_right: [Programmers Autonomous-Driving Dev course. Mission Pass Competition](https://github.com/LimKyeongmuk/Project4 "Project3")  
+:point_right: [Programmers Autonomous-Driving Dev course. Final Course Competition](https://github.com/LimKyeongmuk/final_project "Final Project")  
+:point_right: [Programmers Autonomous-Driving Dev course. Mission Pass Competition](https://github.com/LimKyeongmuk/Project4 "Project4")  
+:point_right: [Programmers Autonomous-Driving Dev course. Driving Simulator with DQN](https://github.com/LimKyeongmuk/Project3 "Project3") 
 :point_right: [Programmers Autonomous-Driving Dev course. Lane-following Competition](https://github.com/LimKyeongmuk/Project2 "Project2")  
 :point_right: [Programmers Autonomous-Driving Dev course. LiDAR SLAM using Cartographer](https://github.com/LimKyeongmuk/Project6 "Project6")  
 :point_right: [Programmers Autonomous-Driving Dev course. Simulator SLAM Project](https://github.com/LimKyeongmuk/Project5 "Project5")   
